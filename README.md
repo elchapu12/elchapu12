@@ -55,20 +55,19 @@ I seek to join a challenging environment where I can apply my knowledge of netwo
 Aplicación web desarrollada para gestión veterinaria, con interfaz moderna y diseño responsive.
 <img width="1841" height="916" alt="webveterinaria" src="https://github.com/user-attachments/assets/a81bdc2f-b055-460e-8956-8d4e4dc1cb1b" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 ---
 
 ### 🧙‍♂️ [Magic 3D Creation](https://magic3dcreation.vercel.app/)
 Sitio web profesional para emprendimiento de impresión 3D, con integración de contacto.
 <img width="1563" height="938" alt="webmagic3d" src="https://github.com/user-attachments/assets/2394fffb-6293-40fe-9971-7952dcafd6f4" />
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
